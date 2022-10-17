@@ -40,7 +40,7 @@ The first question that comes into my mind is that WIFM (What's in it for me?)
 ## How to install Pytest?
 ```bash
 $> pipenv shell
-$> pip install pytest
+$> pipenv install pytest
 ```
 
 ## How to run pytest tests
