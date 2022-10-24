@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 pytest = "*"
+djangorestframework = "*"
+pytest-django = "*"
 
 [dev-packages]
 
